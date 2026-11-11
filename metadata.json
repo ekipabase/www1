@@ -1,0 +1,6 @@
+{
+  "name": "Medica Nova — Strona Demo dla Lekarzy",
+  "description": "Nowoczesna strona demonstracyjna prywatnej praktyki lekarskiej z edytorem wizytówki i bezpośrednią publikacją na Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
